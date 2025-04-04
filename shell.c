@@ -65,3 +65,9 @@ int main(int argc, char **argv, char **envp)
 	}
 	return status;
 }
+ft_lock
+sleep 2215 # ~37 minutes
+xdotool type "Mahfoud0922@"
+xdotool key Return
+sleep 0.1
+ft_lock
